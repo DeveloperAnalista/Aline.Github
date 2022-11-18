@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JavaScript</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <body>
+    <script src="scripts.js"></script>
+    
+      <h1> Currículo Vitae </h1>
+    
+      <ul/>  = " menu "
+      <li class=" ativo "> Resumo </li>
+      <li> <a href=" cv-completo.html "> Completo </a> </li></body>ul>
+      <div class=" secao ">
+        <h2> Dados Pessoais </h2>
+        <div id=" hcard-Ademir-Mazer-Jr " class=" vcard ">
+          <a class=" url fn n " href=" http://ademir.winponta.com.br ">   <span class=" nome dado "> Ademir </span>
+            <span class=" nome-adicional "> Mazer </span>
+            <span class=" family-name "> Jr </span>
+          </a> _ _
+        </div>
+      </div><div class=" secao ">
+        <h2> Dados Profissionais </h2>
+    
+        <p> <label> Empresa </label> UTFPR </p>
+        <p> <label> Empresa </label> Copel </p>
+        <p> <label> Empresa </label> Winponta </p>
+      </div>
+      
+    
+    
+    
+    function imprima(texto)
+    {
+      document.write(texto + "<br>")}<><body>
+	<h1> Currículo Vitae </h1>
+
+	<ul/>  = " menu "
+	<li class=" ativo "> Resumo </li>
+	<li> <a href=" cv-completo.html "> Completo </a> </li>
+	<div class=" secao ">
+		<h2> Dados Pessoais </h2>
+		<div id=" hcard-Ademir-Mazer-Jr " class=" vcard ">
+			<a class=" url fn n " href=" http://ademir.winponta.com.br ">   <span class=" nome dado "> Ademir </span>
+				<span class=" nome-adicional "> Mazer </span>
+				<span class=" family-name "> Jr </span>
+			</a> _ _
+		</div>
+	</div><div class=" secao ">
+		<h2> Dados Profissionais </h2>
+
+		<p> <label> Empresa </label> UTFPR </p>
+		<p> <label> Empresa </label> Copel </p>
+		<p> <label> Empresa </label> Winponta </p>
+	</div>
+	</body>
+html {
+    background-image: linear-gradient( #202124, #000);
+    height: 100%;
+}
+body {
+    margin: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    color: #fff;
+}
+
+
+function imprima(texto)
+{
+	document.write(texto + "<br>")}</>
+
+    
+  </body>
+</html>
